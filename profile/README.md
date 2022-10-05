@@ -1,12 +1,28 @@
-## Hi there 👋
+# Hello there it's me the ower of this organization 😄
 
-<!--
+## If you want to join follow the steps bellow ⬇️
 
-**Here are some ideas to get you started:**
+1. you need to know python now most of you will wonder why? It's becuse we do lot's of coding here so you know at least one proggraming language!!
+See if you understand these without geting help
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+```python3
+import sys 
+
+my_variable = input("hello how are you? ")
+
+if my_variable == int :
+  sys.exit()
+else:
+  print("I am great!!!")
+
+```
+
+
+```python3
+from flask import Flask
+app = Flask(__name__) 
+
+@app.route("/")
+
+
+```
